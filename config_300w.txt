@@ -1,0 +1,3 @@
+train_txt = /home/jms_test/6/face_alignment-master/dataset/300W/300W_trainset.txt
+valid_txt = /home/jms_test/6/face_alignment-master/dataset/300W/300W_testset.txt
+test_dir_out = test_out_001
