@@ -16,4 +16,4 @@ caffe & python2
 3.`cd train_300w_68_vanilla` and Run train.sh 
 
 ## DataSet
-you can download the 300W from here： 
+you can download the 300W from here： https://github.com/Jingmaos/DataSet
