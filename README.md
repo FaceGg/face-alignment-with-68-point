@@ -17,3 +17,6 @@ caffe & python2
 
 ## DataSet
 you can download the 300W from here： https://github.com/Jingmaos/DataSet
+
+## References
+https://github.com/cunjian/face_alignment
