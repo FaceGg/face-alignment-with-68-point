@@ -1,5 +1,4 @@
 # face-alignment-with-68-point
-## 求个星星，面试公司要200星的GitHub开源项目，大家帮帮忙
 
 ## Requirement
 
