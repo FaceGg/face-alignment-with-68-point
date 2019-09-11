@@ -1,6 +1,6 @@
 # The train/test net protocol buffer definition
 # this follows "ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION"
-net: "/home/jms_test/6/face_alignment-master/train_300w_68_vanilla/vanilla_train.prototxt"
+net: "/home/test/6/face_alignment-master/train_300w_68_vanilla/vanilla_train.prototxt"
 type: "Adam"
 test_iter: 1000
 test_interval: 100000
