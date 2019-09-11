@@ -5,7 +5,7 @@ layer {
    top: "data" # same name as given in create_dataset!
    top: "landmarks"
    hdf5_data_param {
-     source: "/home/jms_test/6/face_alignment-master/h5_300w_68_40_box/train.txt" # do not give the h5 files directly, but the list.
+     source: "/home/test/6/face_alignment-master/h5_300w_68_40_box/train.txt" # do not give the h5 files directly, but the list.
      batch_size: 32
    }
    include { phase:TRAIN }
@@ -16,7 +16,7 @@ layer {
    top: "data" # same name as given in create_dataset!
    top: "landmarks"
    hdf5_data_param {
-     source: "/home/jms_test/6/face_alignment-master/h5_300w_68_40_box/valid.txt" # do not give the h5 files directly, but the list.
+     source: "/home/test/6/face_alignment-master/h5_300w_68_40_box/valid.txt" # do not give the h5 files directly, but the list.
      batch_size: 32
    }
    include { phase:TEST }
