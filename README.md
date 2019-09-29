@@ -16,7 +16,7 @@ caffe & python2
 3.`cd train_300w_68_vanilla` and Run `train.sh` 
 
 ## DataSet
-you can download the 300W from here： https://github.com/Jingmaos/DataSet
+you can download the 300W from here： https://github.com/FaceGg/DataSets
 
 ## References
 Thanks for https://github.com/cunjian/face_alignment
